@@ -1,0 +1,50 @@
+49
+ARDN,Basic Arduino,200,Pham Quang Huy,2016,Cong Nghe Thong Tin,12,Ke 5_1
+BSPT,Basic Python,221,John Slemy,2017,Cong Nghe Thong Tin,11,Ngan 8_1
+CNBLC,Cong Nghe Block Chain,421,Various Artist,2017,Cong Nghe Thong Tin,10,Ke 11_1
+GTTT,Giao Trinh Thuat Toan,194,Charles Leiserson,2019,Cong Nghe Thong Tin,13,Ngan 12_1
+JAVA1,Lap Trinh Java,332,Neos Thanh,2018,Cong Nghe Thong Tin,5,Ngan 5_1
+MCLN,Machine Learning,241,Vu Huu Tiep,2018,Cong Nghe Thong Tin,11,Ngan 5_1
+SCRATCH,Tu Hoc Scratch,192,Bui Viet Ha,2017,Cong Nghe Thong Tin,20,Ke 4_1
+MTK,Ma Thien Ky,333,Vong Ngu,2013,Kiem Hiep,7,Ke 9_1
+ADM,Am Duong Mienn,242,Duong Gia Tam Thieu,2014,Kiem Hiep,5,Ke 4_1
+PNTT,Pham Nhan Tu Tien,242,Vong Ngu,2012,Kiem Hiep,4,Ke 2_1
+THVS,Thien Ha Vo Song,574,Nham Oan,2019,Kiem Hiep,4,Ke 9_1
+DLDL,Dau La Dai Luc,241,Duong Gia Tam Thieu,2013,Kiem Hiep,4,Tu 2_1
+CGCN,Cha Giau Cha Ngheo,249,Robert Kiyosaki,2015,Ky Nang Song,6,Tu 3_1
+10QLCS,10 Quy Luat Cuoc Song,321,Catherine Nomura,2012,Ky Nang Song,5,Ke 1_1
+DNT,Dac Nhan Tam,249,Dale Carnegie,2014,Ky Nang Song,7,Ke 5_1
+NGK,Nha Gia Kim,236,Paulo Coelho,2019,Ky Nang Song,4,Ke 5_1
+NBACD,Nhung Bi An Cuoc Doi,422,Dale Carnegie,2014,Ky Nang Song,5,Ke 5_1
+10CNVN,10 Cau Noi Van Nang,421,Rich Devos,2019,Ky Nang Song,14,Ngan 1_1
+SVUM,Song Voi Uoc Mo,234,Jack Canfield,2019,Ky Nang Song,10,Ngan 3_1
+SNVLG,Suy Nghi Va Lam Giau,444,Napoleon Hill,2013,Ky Nang Song,5,Tu 4_1
+BMCHP,Bi Mat Cua Hanh Phuc,229,David Niven,2013,Ky Nang Song,4,Ngan 3_1
+HGTH,Hat Giong Tam Hon,249,Various Artist,2014,Ky Nang Song,4,Ke 4_1
+MRKT,Marketing Truyen Mieng,242,Andy Sernovitz,2018,Marketing,4,Ngan 9_1
+TLD,Thuat Lanh Dao,143,Brian Tracy,2018,Marketing,4,Ke 8_1
+TTTC,Tri Tue Tai Chinh,390,Joe Knight,2018,Marketing,4,Ngan 2_1
+STUNT,Quoc Gia Khoi Nghiep,403,Saul Singer,2014,Marketing,24,Ngan 3_1
+TSP,Tung San Phan,125,Jeff Walker,2018,Marketing,4,Ngan 10_1
+MTD,Moi Tinh Dau,424,Ivan Turnegev,2013,Tieu Thuyet,10,Tu 8_1
+LTVTC,Li Tri Va Tinh Cam,244,Jane Austen,2004,Tieu Thuyet,8,Tu 9_1
+TDDN,Tang Dau Dia Nguc,234,Alexander Kocszly,2001,Tieu Thuyet,4,Tu 8_1
+CTDX,Cuon Theo Dong Xoay,424,Barbara Cartland,1994,Tieu Thuyet,4,Tu 2_1
+NOFL,Night Of Love,223,Diana Palmer,2013,Tieu Thuyet,5,Ke 6_1
+ASC,Anh Sao Chieu,248,Daniel Steel,2000,Tieu Thuyet,10,Tu 8_1
+3WAPR,3 Tuan O Paris,331,Barbara Taylor,2012,Tieu Thuyet,16,Ngan 6_1
+SND,San Duoi,424,Gordon Thomas,2000,Tieu Thuyet,24,Ke 11_1
+SCRQ,Scream Queens,240,Sparkling,2016,Trinh Tham,4,Ngan 7_1
+SLH,Sherlock Holmes,245,Sir Arthur C Doyle,1990,Trinh Tham,4,Ke 7_1
+CTTVD,Cay Thap Tu Ven Duong,421,Jeffery Deaver,2013,Trinh Tham,5,Tu 2_1
+IFN,Hoa Nguc Inferno,223,Dan Brown,2005,Trinh Tham,4,Ke 9_1
+VT,Vu Tru,223,Name,2010,Trinh Tham,14,Ngan 3_1
+39MM,39 Manh Moi,234,Jude Watson,2021,Trinh Tham,13,Ke 11_1
+PKM,Pokemon Adventure,211,Takeshi Shudo,1996,Truyen Tranh,11,Tu 6_1
+CNT,Tham Tu Conan,488,Aoyama Gosho,2001,Truyen Tranh,12,Ke 12_1
+DRM,Doraemon,244,Fujiko Fujio,2000,Truyen Tranh,9,Ke 11_1
+NRT,Naruto Shippuuden,424,Kishimoto Mashashi,2019,Truyen Tranh,43,Ke 7_1
+FRT,Fairy Tail,424,Mashima Hiro,2013,Truyen Tranh,4,Ke 10_1
+ATOT,Attack On Titan,249,Hiro Shimono,2004,Truyen Tranh,24,Tu 5_1
+OPDHT,Dao Hai Tac,424,Oda Eichiro,2013,Truyen Tranh,3,Ke 4_1
+DRGB,7 Vien Ngoc Rong,499,Toriyama Akira,1995,Truyen Tranh,16,Tu 1_1
